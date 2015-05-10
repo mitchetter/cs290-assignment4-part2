@@ -1,0 +1,19 @@
+Start: Thu, 7 May 2015 12:15:00 -0800
+End: Thu, 7 May 2015 14:06:00 -0800
+Tasks: Created the basic layout of the page.
+
+Start: Fri, 8 May 2015 10:30:00 -0800
+End: Fri, 8 May 2015 12:45:51 -0800
+Tasks: Worked on getting the table to display properly.
+
+Start: Sat, 9 May 2015 07:30:00 -0800
+End: Sat, 9 May 2015 11:25:00 -0800
+Tasks: Worked out small bugs and checked to make sure that alerts displayed properly.
+
+Start: Sat, 9 May 2015 14:50:00 -0800
+End: Sat, 9 May 2015 15:40:00 -0800
+Tasks: Finalized small details and checked through the function list provided.
+
+Start: Sun 10 May 2015 09:01:00 -0800
+End: Sun 10 May 2015 11:10:00 -0800
+Tasks: Added some CSS styling to give it that OSU flare and double checked for proper functionality.

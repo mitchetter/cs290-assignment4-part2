@@ -1,0 +1,26 @@
+body { 
+	background-color : darkorange;
+	font-weight: bold;
+}
+
+form {
+	background-color: black;
+	color: white;
+}
+
+table {
+	border: 1px solid white;
+	text-align: center;
+	background-color: black;
+	color: white;
+	width: 50%;
+}
+
+td,  th {
+	border: 2px solid white;
+}
+
+th {
+	background-color: white;
+	width: 20%;
+}
